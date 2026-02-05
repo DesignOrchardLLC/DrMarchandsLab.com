@@ -1,4 +1,4 @@
-# # DrMarchand’s Lab⚛︎ratory™ / Design Orchard LLC
+# DrMarchand’s Lab⚛︎ratory™ / Design Orchard LLC
 
 This repository contains the code and assets for **DrMarchand’s virtual environments**, including GLYPHs and associated payloads.  
 
