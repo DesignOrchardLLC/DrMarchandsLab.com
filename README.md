@@ -1,22 +1,53 @@
-# DrMarchand’s Lab⚛︎ratory™ / Design Orchard LLC
+<div align="center">
 
-This repository contains the code and assets for **DrMarchand’s virtual environments**, including GLYPHs and associated payloads.  
+# DrMarchand’s Lab⚛︎ratory™  
+### Operated by Design Orchard LLC
 
-## Concept
+</div>
 
-- Each GLYPH is a digitally instantiated **virtual artifact**.  
-- The collection of GLYPHs exists within a **managed virtual environment**, called **Design Orchard™**, which is legally owned and governed by Design Orchard LLC (Florida).  
-- These virtual environments can be cloned, updated, reverted, or deleted, preserving traceable provenance and ownership.  
+---
 
-## Files
+## Overview
 
-- `js/mint~GLYPH.js` → Script to mint GLYPHs  
-- `js/DrMarchandAI_Node786_Master.js` → Core engine placeholder for minting  
-- `LICENSE` → Apache 2.0 license with LLC copyright  
-- `NOTICE` → Legal attribution and entity classification  
+This repository contains source code and digital assets supporting  
+DrMarchand’s virtual development environments.
 
-## Classification
+These environments operate under the commercial structure of  
+**Design Orchard LLC (Florida)**.
 
-- `entityType`: Virtual Environment  
-- `environment`: Design Orchard™  
-- `governance`: Design Orchard LLC, Florida
+This repository may include experimental systems, minting logic,
+engine placeholders, and virtual artifact frameworks.
+
+---
+
+## System Concept
+
+### Virtual Artifacts (GLYPHs)
+
+Each GLYPH represents a digitally instantiated artifact.
+
+GLYPHs:
+
+- Are generated through controlled scripts
+- Exist within defined virtual environments
+- Maintain traceable provenance
+- Can be versioned, cloned, reverted, or retired
+
+No artifact implies legal ownership transfer unless explicitly declared.
+
+---
+
+### Virtual Environment
+
+The managed virtual environment is referred to as:
+
+**Design Orchard™**
+
+Design Orchard™ is a brand and operational framework owned by  
+**Design Orchard LLC**.
+
+All governance authority resides with the LLC.
+
+---
+
+## Repository Structure
