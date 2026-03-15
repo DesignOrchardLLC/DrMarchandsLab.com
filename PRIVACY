@@ -1,0 +1,50 @@
+# 🔬 DrMarchand’s Lab⚛︎ratory™ — Markdown Legal File Core Skeleton
+# Supports dynamic filling of TOS.md and PrivacyPolicy.md with engine variables
+
+from datetime import datetime
+
+class LegalDocEngine:
+    def __init__(self, file_path, engine_link):
+        """
+        file_path: path to Markdown template (TOS.md or PrivacyPolicy.md)
+        engine_link: special internal engine reference {{ENGINE_LINK}}
+        """
+        self.file_path = file_path
+        self.engine_link = engine_link
+        self.variables = {
+            "TOS_VERSION": "1.0.0",
+            "PRIVACY_VERSION": "1.0.0",
+            "LAST_UPDATE": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+            "USER_ID": "UNKNOWN_USER",
+            "ENGINE_LINK": self.engine_link
+        }
+    
+    def set_variable(self, key, value):
+        """Update or add a variable placeholder"""
+        self.variables[key] = value
+    
+    def fill_template(self, output_path):
+        """Read template file, replace placeholders, and write output"""
+        with open(self.file_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        
+        for key, val in self.variables.items():
+            placeholder = f"{{{{{key}}}}}"  # e.g., {{USER_ID}}
+            content = content.replace(placeholder, str(val))
+        
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(content)
+        
+        print(f"[♾️] Legal doc generated: {output_path}")
+
+# === Example Usage ===
+if __name__ == "__main__":
+    # Initialize with template and engine link
+    engine_core = LegalDocEngine("TOS_template.md", engine_link="https://engine.drmarchandslab.com/core")
+
+    # Optionally set dynamic variables
+    engine_core.set_variable("USER_ID", "KyleMarchand123")
+    engine_core.set_variable("TOS_VERSION", "1.2.0")
+    
+    # Generate filled Markdown file
+    engine_core.fill_template("Terms_of_Service.md")
