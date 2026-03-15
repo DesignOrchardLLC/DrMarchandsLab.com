@@ -11,7 +11,7 @@
 
 ---
 
-**© 2026 🌴 Design Orchard LLC / 🏝️ Design Orchard™**  
+**© 2026 🌴 Design Orchard LLC DBA DrMarchand's Laboratory / 🏝️ Design Orchard™ | 🔬 DrMarchand’s Lab⚛︎ratory™**  
 All rights reserved.
 
 By using any tools, systems, or content provided by 🔬 DrMarchand’s Lab⚛︎ratory™, 📚 DrMarchand’s ⚛︎ Library™, ⚙︎ Nɛuro-Forge Engine™, DrMarchand’s ♾️ OS™, ∞ OS™, or 🪑 DrMarchand’s ☸︎ Workbench™, you agree to the following terms:
