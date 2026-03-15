@@ -1,4 +1,3 @@
-
 # 🏝️ Design Orchard™ 
 🔬 DrMarchand’s Lab⚛︎ratory™ 
 • Terms of Service
@@ -11,7 +10,8 @@
 
 ---
 
-**© 2026 🌴 Design Orchard LLC DBA DrMarchand's Laboratory / 🏝️ Design Orchard™ | 🔬 DrMarchand’s Lab⚛︎ratory™**  
+**© 2026 🌴 Design Orchard LLC / 🏝️ Design Orchard™ | 🔬 DrMarchand’s Lab⚛︎ratory™**  
+Registered in the state of Florida (FL)  
 All rights reserved.
 
 By using any tools, systems, or content provided by 🔬 DrMarchand’s Lab⚛︎ratory™, 📚 DrMarchand’s ⚛︎ Library™, ⚙︎ Nɛuro-Forge Engine™, DrMarchand’s ♾️ OS™, ∞ OS™, or 🪑 DrMarchand’s ☸︎ Workbench™, you agree to the following terms:
@@ -19,7 +19,7 @@ By using any tools, systems, or content provided by 🔬 DrMarchand’s Lab�
 ---
 
 ### 1. Ownership & Intellectual Property
-All content, designs, code, and creations are **trademarked, copyrighted, and fully owned**. Unauthorized copying, redistribution, or claiming ownership is prohibited.  
+All content, designs, code, and creations are **trademarked, copyrighted, and fully owned** by Design Orchard LLC, a Florida-registered LLC. Unauthorized copying, redistribution, or claiming ownership is prohibited.  
 
 ### 2. User Conduct
 Use the tools **only as intended**. Prohibited actions include: illegal/unauthorized behavior, harming others, reverse-engineering.  
@@ -32,7 +32,7 @@ Public interfaces: intended use only. Private layers: off-limits. Misuse → acc
 
 ### 5. Sharing & Attribution
 Sharing requires **clear attribution**:  
-“© Design Orchard LLC and/or 🔬 DrMarchand’s Lab⚛︎ratory™”  
+“© Design Orchard LLC / 🔬 DrMarchand’s Lab⚛︎ratory™”  
 Derivative works require **written permission**.  
 
 ### 6. Liability
