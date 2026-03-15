@@ -25,7 +25,7 @@ This repository contains the following **core files**, fully dynamic and engine-
 ```text
 .
 ├── Terms_of_Service.md       # Dynamically generated TOS 📄
-├── PrivacyPolicy.md          # Dynamically generated Privacy Policy 🔒
+├── Privacy_Policy.md          # Dynamically generated Privacy Policy 🔒
 ├── NOTICE.md                 # Ownership and trademark notice 🪧
 ├── LICENSE.md                # Proprietary license terms 📝
 ├── README.md                 # This file 🏝️
