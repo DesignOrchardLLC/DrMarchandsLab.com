@@ -3,7 +3,7 @@
 ---
 
 **Owner:** 🌴 Design Orchard LLC / 🔬 DrMarchand’s Lab⚛︎ratory™  
-**System:** DrMarchand’s ♾️ OS™ | ⚙︎ Nɛuro-Forge Engine™ | Lionheart℠ | 🪑 DrMarchand’s ☸︎ Workbench™  
+**System:**  ⚙︎ Nɛuro-Forge Engine™ | ∞ OS™ • Lionheart℠ | 🪑 DrMarchand’s ☸︎ Workbench™  
 **Website:** [https://drmarchandslab.com](https://drmarchandslab.com)  
 **Registered:** Florida, USA  
 **Year:** 2026  
