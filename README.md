@@ -16,7 +16,7 @@ This repository contains the following **core files**, fully dynamic and engine-
 | [Notice.md](./Notice.md) 🪧 | Ownership, trademarks, restricted actions, and licensing references | Can be enhanced with `{{YEAR}}`, `{{COMPANY_NAME}}`, `{{SYSTEM_NAMES}}` |
 | [License.md](./License.md) 📝 | Proprietary license outlining authorized use and restrictions | Can integrate `{{YEAR}}`, `{{COMPANY_NAME}}`, `{{SYSTEM_NAMES}}` |
 
-> ⚠️ **Note:** These files are designed to be dynamically filled via the **Marchand Micro-Molecular Services℠™** in the ⚙︎ Nɛuro-Forge Engine™. Updates to version numbers, dates, or user identifiers automatically populate the Markdown files.  
+> ⚠️ **Note:** These files are designed to be dynamically filled via the **Marchand Micro-Molecular Services℠** in the ⚙︎ Nɛuro-Forge Engine™. Updates to version numbers, dates, or user identifiers automatically populate the Markdown files.  
 
 ---
 
