@@ -63,7 +63,8 @@ No cookies are used for sale or external marketing.
 ---
 
 ### 7️⃣ Updates to Policy
-Privacy practices may evolve. **Continued use constitutes acceptance of the latest version**.  
+Privacy practices may **be updated periodically**.  
+**Continued use constitutes acceptance of the latest version**.  
 
 ---
 
