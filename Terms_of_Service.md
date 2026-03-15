@@ -1,5 +1,7 @@
 
-# Design Orchard™ / 🔬 DrMarchand’s Lab⚛︎ratory™ Terms of Service
+# 🏝️ Design Orchard™ 
+🔬 DrMarchand’s Lab⚛︎ratory™ 
+Terms of Service
 
 > Note: This GitHub version reflects the Terms of Service for Design Orchard™. The authoritative version is maintained here for integration: [https://www.drmarchandslab.com/terms](https://www.drmarchandslab.com/terms)
 
