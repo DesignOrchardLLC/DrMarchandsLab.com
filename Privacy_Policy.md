@@ -2,7 +2,7 @@
 🔬 DrMarchand’s Lab⚛︎ratory™ 
 • Privacy Policy
 
-> Note: This GitHub version reflects the Privacy Policy for Design Orchard™. The authoritative version is maintained here for integration: [https://www.drmarchandslab.com/Privacy](https://www.drmarchandslab.com/PRIVACY)
+> Note: This GitHub version reflects the Privacy Policy for Design Orchard™. The authoritative version is maintained here for integration: [https://www.DrMarchandsLab⚛︎ratory.com/Privacy](https://www.drmarchandslaboratory.com/PRIVACY)
 
 **Policy Version:** {{PRIVACY_VERSION}}  
 **Last Update:** {{LAST_UPDATE}}  
