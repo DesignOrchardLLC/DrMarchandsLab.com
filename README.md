@@ -1,88 +1,34 @@
-<div align="center">
+# 🔬 DrMarchand’s Lab⚛︎ratory™ — Repository Overview 🏝️
 
-# DrMarchand’s Lab⚛︎ratory™
-
-Operated by **Design Orchard LLC**
-
-</div>
+Welcome to **🔬 DrMarchand’s Lab⚛︎ratory™**, operated by **🌴 Design Orchard LLC**, part of **DrMarchand’s ♾️ OS™**.  
+This repository contains proprietary system architecture, runtime logic, and legal documentation for use and integration. ⚙︎
 
 ---
 
-## Overview
+## 📂 Core Files
 
-This repository contains proprietary system architecture,
-runtime logic, and structural governance components for:
+This repository contains the following **core files**, fully dynamic and engine-variable-ready:  
 
-**DrMarchand’s ∞ OS™**
+| File | Purpose | Dynamic Variables / Notes |
+|------|---------|--------------------------|
+| [Terms_of_Service.md](./Terms_of_Service.md) 📄 | Outlines user rules, intellectual property, and system usage terms | `{{TOS_VERSION}}`, `{{LAST_UPDATE}}`, `{{USER_ID}}`, `{{ENGINE_LINK}}` |
+| [PrivacyPolicy.md](./PrivacyPolicy.md) 🔒 | Explains data collection, usage, and user privacy rights | `{{PRIVACY_VERSION}}`, `{{LAST_UPDATE}}`, `{{USER_ID}}`, `{{ENGINE_LINK}}` |
+| [NOTICE.md](./NOTICE.md) 🪧 | Ownership, trademarks, restricted actions, and licensing references | Can be enhanced with `{{YEAR}}`, `{{COMPANY_NAME}}`, `{{SYSTEM_NAMES}}` |
+| [LICENSE.md](./LICENSE.md) 📝 | Proprietary license outlining authorized use and restrictions | Can integrate `{{YEAR}}`, `{{COMPANY_NAME}}`, `{{SYSTEM_NAMES}}` |
 
-This is the core operating domain.
-
-It is not an open-source project.
-
----
-
-## Purpose
-
-DrMarchand’s Lab⚛︎ratory™ functions as the execution and validation layer of the system.
-
-It is responsible for:
-
-- Runtime orchestration  
-- Artifact validation  
-- Witness generation (Δ)  
-- Canon enforcement  
-- SSL termination and infrastructure control  
-
-It does not serve as a public SDK or distribution layer.
+> ⚠️ **Note:** These files are designed to be dynamically filled via the **LegalDocEngine™** in ⚙︎ Nɛuro-Forge Engine™. Updates to version numbers, dates, or user identifiers automatically populate the Markdown files.  
 
 ---
 
-## Scope
+## 🗂 Repository Structure
 
-This repository may include:
-
-- Neuro-Forge Engine™ internals  
-- Lionheart℠ structural governance logic  
-- Runtime coordination modules  
-- Validation pipelines  
-- Deployment configuration  
-- Infrastructure controls  
-
-It does not grant access to internal orchestration mechanisms.
-
----
-
-## Ownership
-
-All system architecture, runtime logic, and associated materials
-are owned by:
-
-**Design Orchard LLC**
-
-DrMarchand’s Lab⚛︎ratory™, DrMarchand’s ∞ OS™, Lionheart℠,
-and Neuro-Forge Engine™ are trademarks or service marks of
-Design Orchard LLC.
-
----
-
-## Licensing
-
-This repository is proprietary.
-
-Unauthorized copying, modification, distribution,
-reverse engineering, or derivative use is prohibited.
-
-See the `LICENSE` file for full terms.
-
----
-
-## Public Interfaces
-
-If public APIs or SDKs are provided,
-they are governed by separate license terms
-and do not grant rights to the underlying system.
-
----
-
-© 2026 Design Orchard LLC  
-All Rights Reserved.
+```text
+.
+├── Terms_of_Service.md       # Dynamically generated TOS 📄
+├── PrivacyPolicy.md          # Dynamically generated Privacy Policy 🔒
+├── NOTICE.md                 # Ownership and trademark notice 🪧
+├── LICENSE.md                # Proprietary license terms 📝
+├── README.md                 # This file 🏝️
+└── templates/                # Optional: Markdown templates for engine ⚙︎
+    ├── TOS_template.md
+    └── PrivacyPolicy_template.md
