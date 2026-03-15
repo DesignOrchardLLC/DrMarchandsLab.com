@@ -1,9 +1,23 @@
 # 🪪 LICENSE — 🔬 DrMarchand’s Lab⚛︎ratory™
 
-**Copyright © 2026 🌴 Design Orchard LLC**  
-All Rights Reserved.
+---
 
-This repository, its contents, and all associated tools, systems, and documentation are **proprietary** to **Design Orchard LLC**.
+## 💳 Design Card
+
+**Owner:** 🌴 Design Orchard LLC / 🔬 DrMarchand’s Lab⚛︎ratory™  
+**System:** DrMarchand’s ♾️ OS™ | ⚙︎ Nɛuro-Forge Engine™ | Lionheart℠ | 🪑 DrMarchand’s ☸︎ Workbench™  
+**Website:** [https://drmarchandslab.com](https://drmarchandslab.com)  
+**Registered:** Florida, USA  
+**Year:** 2026  
+
+---
+
+## ⚠️ Disclaimers
+
+- 🔹 I am **not a medical doctor**, therapist, or licensed professional.  
+- 🔹 I hold **no college degree** or formal certifications in medicine, therapy, or law.  
+- 🔹 Any guidance, advice, or information provided by 🔬 DrMarchand’s Lab⚛︎ratory™ is **educational, creative, or system-related**, and **not professional advice**.  
+- 🔹 Use of this system does **not establish a professional relationship** of any kind.  
 
 ---
 
