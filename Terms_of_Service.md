@@ -22,7 +22,7 @@ By using any tools, systems, or content provided by 🔬 DrMarchand’s Lab�
 All content, designs, code, and creations are **trademarked, copyrighted, and fully owned**. Unauthorized copying, redistribution, or claiming ownership is prohibited.  
 
 ### 2. User Conduct
-Use our tools **only as intended**. Prohibited actions include: illegal/unauthorized behavior, harming others, reverse-engineering.  
+Use the tools **only as intended**. Prohibited actions include: illegal/unauthorized behavior, harming others, reverse-engineering.  
 
 ### 3. Data & Privacy
 Interactions may be logged for **system improvement and validation**. {{ENGINE_LINK}} handles secure access and variable tracking.
