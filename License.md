@@ -40,7 +40,7 @@ Authorized users may:
 - ✅ View or reference the repository for **educational or review purposes** with **explicit attribution**  
 
 **Required Attribution**:  
-> “© 🌴 Design Orchard LLC / 🔬 DrMarchand’s Lab⚛︎ratory™”
+> “© Design Orchard LLC or 🔬 DrMarchand’s Lab⚛︎ratory™”
 
 ---
 
