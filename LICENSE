@@ -1,53 +1,43 @@
-DrMarchand’s Lab⚛︎ratory™
-Operated by Design Orchard LLC
+# 🔬 DrMarchand’s Lab⚛︎ratory™ — LICENSE
 
-Proprietary Software License
-All Rights Reserved
+**Copyright © 2026 Design Orchard LLC**  
+All Rights Reserved.  
 
-Copyright © 2026 Design Orchard LLC.
+This repository, its contents, and all associated tools, systems, and documentation are **proprietary** to **Design Orchard LLC**.  
 
-This software, system architecture, associated documentation,
-runtime logic, orchestration frameworks, and all related materials
-(collectively, the "System") are proprietary to Design Orchard LLC.
+## 1. Scope of License
+- Any use of this repository is **subject to explicit permission** from Design Orchard LLC.  
+- Public-facing APIs may be used according to **separate API license terms**, if provided.  
+- This license **does not grant rights** to:  
+  - Copy, reproduce, or redistribute system logic  
+  - Reverse-engineer or decompile runtime components  
+  - Derive or replicate structural governance models  
+  - Use trademarks, system names, or logos without authorization  
 
-No part of this System may be:
+## 2. Authorized Use
+Authorized users may:  
+- Access public interfaces as intended  
+- Integrate with approved systems or applications under written consent  
+- View or reference the repository for educational or review purposes **with explicit attribution**  
 
-• Copied
-• Modified
-• Distributed
-• Reverse engineered
-• Decompiled
-• Reproduced
-• Republished
-• Transmitted
-• Used to create derivative works
+**Required Attribution**:  
+> “© Design Orchard LLC / 🔬 DrMarchand’s Lab⚛︎ratory™”
 
-without prior written permission from Design Orchard LLC.
+## 3. Liability
+The system and repository are provided **as-is**.  
+Design Orchard LLC is **not liable** for misuse, damages, or loss resulting from unauthorized access or operations.  
 
-This includes but is not limited to:
+## 4. Updates & Enforcement
+- Design Orchard LLC may update this license at any time.  
+- Continued use constitutes acceptance of the latest license terms.  
+- Violations may result in access revocation, legal action, or both.  
 
-• Neuro-Forge Engine™ internals
-• Lionheart℠ structural doctrine
-• Runtime orchestration layers
-• Canonical manifest systems
-• Validation and witness logic
-• Private APIs
-• Deployment infrastructure
+## 5. Contact
+For licensing inquiries or permissions, visit:  
+[https://drmarchandslab.com](https://drmarchandslab.com)
 
-Access to this System does not grant ownership,
-license rights, or derivative permissions beyond
-explicitly documented public interfaces.
+---
 
-All trademarks and service marks including:
-
-• DrMarchand’s Lab⚛︎ratory™
-• DrMarchand’s ∞ OS™
-• Lionheart℠
-• Neuro-Forge Engine™
-
-are property of Design Orchard LLC.
-
-For licensing inquiries:
-https://drmarchandslab.com
-
-Unauthorized use is strictly prohibited.
+**© 2026 Design Orchard LLC**  
+All Rights Reserved.  
+🔬 DrMarchand’s Lab⚛︎ratory™ | DrMarchand’s ∞ OS™ | Lionheart℠ | Neuro-Forge Engine™
