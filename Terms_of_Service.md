@@ -32,7 +32,7 @@ Public interfaces: intended use only. Private layers: off-limits. Misuse → acc
 
 ### 5. Sharing & Attribution
 Sharing requires **clear attribution**:  
-“© Design Orchard LLC / 🔬 DrMarchand’s Lab⚛︎ratory™”  
+“© Design Orchard LLC and/or 🔬 DrMarchand’s Lab⚛︎ratory™”  
 Derivative works require **written permission**.  
 
 ### 6. Liability
